@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 💬 Making edits on [YouTube](https://www.youtube.com/@devsenpaiAMV)</br>
 🎨 Does drawing and music as hobbies</br>
 📫 Reach me through my email in bio and [Fiverr](https://www.fiverr.com/devsxnpai?public_mode=true)</br>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeyadev-png&show_icons=true&theme=highcontrast)
+
+
+
